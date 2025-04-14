@@ -3,7 +3,7 @@
 A sleek and powerful **web-based typing speed application** built with React.  
 Measure your typing speed with **real-time progress tracking**, **accuracy metrics**, and a **customizable experience** designed for beginners and pros alike.
 
-🌐 [Live Demo](https://speed-type-liart.vercel.app/)
+🌐 [Live Demo](https://speed-type-smoky.vercel.app/)
 
 ---
 
